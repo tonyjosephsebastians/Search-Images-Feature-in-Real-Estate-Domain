@@ -1,0 +1,2 @@
+# Search-Images-Feature-in-Real-Estate-Domain
+he Project is to build neural network models with abilities to predict labels into images in real estate context.For real estate listing’s images, sometimes it is not easy to assign a single label into it. Therefore, in the project, multi-class and a multi-label classification models are implemented. Pre-trained models like VGG16(60% accuracy),Restnet50(72%) and xception (82%) keras libraries used to train the model and final accuracy is 82%.
